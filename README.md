@@ -1,6 +1,6 @@
 # qr-code-scams
 Organised crime gangs behind rise in QR code 'quishing' scams 
-[]!(https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ea63/live/42eb01d0-fdcf-11ef-b206-a78918e84ff6.jpg.webp)
+<img width="375" alt="qr codes" src="https://github.com/user-attachments/assets/246111d6-8f50-4189-9d8f-b1bb8be32afc" />
 
 In April 2025, we [reported](https://www.bbc.co.uk/news/articles/cq6yznmv3gzo) on a sharp rise in scams linked to fake and fraudulent QR codes.
 
@@ -71,7 +71,7 @@ This story was used across the BBC and by several partner news outlets, includin
 - [Greatest Hits Radio (Berkshire)](https://hellorayo.co.uk/greatest-hits/berkshire-north-hampshire/news/qr-code-scam-warning-berkshire-north-hampshire/)
 - [Greatest Hits Radio (Somerset)](https://hellorayo.co.uk/greatest-hits/somerset/news/qr-code-scams-on-the-rise-in-somerset/)
 - [Greatest Hits Radio (Cambridgeshire)](https://hellorayo.co.uk/greatest-hits/cambridgeshire/news/qr-code-scam-warning-cambridgeshire/)
-- [Basildon Canvey Southend Echo[(https://www.echo-news.co.uk/news/25072346.castle-point-council-warning-fake-qr-codes-waste-bins/)
+- [Basildon Canvey Southend Echo](https://www.echo-news.co.uk/news/25072346.castle-point-council-warning-fake-qr-codes-waste-bins/)
 - [Bristol Post](https://www.bristolpost.co.uk/news/celebs-tv/bbc-breakfasts-naga-munchetty-called-10098924)
 - [Greatest Hits Radio (Essex)](https://hellorayo.co.uk/greatest-hits/essex/news/qr-code-scams-rising-in-essex/)
 - [Slough Observer](https://www.sloughobserver.co.uk/news/25079758.thames-valley-police-qr-code-scams-increase-almost-16x/?ref=rss)

@@ -39,7 +39,7 @@ This story was used across the BBC and by several partner news outlets, includin
 - Today
 - News bulletins across several national radio stations
 - Newsbeat
-- BBC Front Page
+- [BBC Front Page](https://www.bbc.co.uk/news/articles/cq6yznmv3gzo)
 - BBC Scotland TV
 - BBC Scotland Radio
 - BBC Wales

@@ -1,6 +1,7 @@
 # qr-code-scams
 Organised crime gangs behind rise in QR code 'quishing' scams 
-<img width="375" alt="qr codes" src="https://github.com/user-attachments/assets/246111d6-8f50-4189-9d8f-b1bb8be32afc" />
+
+![qr code machine](https://github.com/user-attachments/assets/88afa0e5-c85f-45fd-804f-b24588bd0ac1)
 
 In April 2025, we [reported](https://www.bbc.co.uk/news/articles/cq6yznmv3gzo) on a sharp rise in scams linked to fake and fraudulent QR codes.
 

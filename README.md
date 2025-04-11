@@ -1,5 +1,4 @@
-# qr-code-scams
-Organised crime gangs behind rise in QR code 'quishing' scams 
+# Organised crime gangs behind rise in QR code 'quishing' scams 
 
 ![qr code machine](https://github.com/user-attachments/assets/88afa0e5-c85f-45fd-804f-b24588bd0ac1)
 
